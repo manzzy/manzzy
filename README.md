@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/manzzy](https://github.com/manzzy)
 
-- 📝 I regularly write articles on [https://medium.com/@mikegirma82](https://medium.com/@mikegirma82)
+- 📝 I regularly write articles on [https://mikiyasgirma.medium.com/](https://mikiyasgirma.medium.com/)
 
 - 📫 How to reach me **mikegirma82@gmail.com**
 
@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://twitter.com/mikiyas_girma_d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mikiyas_girma_d" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mikiyasgirma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mikiyasgirma" height="30" width="40" /></a>
-<a href="https://medium.com/@mikegirma82" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mikegirma82" height="30" width="40" /></a>
+<a href="https://medium.com/@mikiyasgirma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mikiyasgirma" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
